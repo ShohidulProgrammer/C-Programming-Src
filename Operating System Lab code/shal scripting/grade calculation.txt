@@ -1,0 +1,20 @@
+PS3='Please enter your choice: '
+(Something here)
+
+do
+case $
+    "0-59")
+        echo "F"
+        ;;
+    "60-69")
+        echo "D"
+        ;;
+    "70-79")
+        echo "C"
+        ;;
+    "Quit")
+        break
+        ;;
+    *) echo invalid option;;
+esac
+done

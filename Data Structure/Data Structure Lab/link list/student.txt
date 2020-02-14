@@ -1,0 +1,7 @@
+1 shoikat 80
+1 232 hamid 73
+2 hamid 83
+3 mamun 32
+34 musa 98
+73 jumly 981 s 10
+1 0 10
